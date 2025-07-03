@@ -7,7 +7,7 @@ import Link from "next/link";
   async function searchArticles(query: string): Promise<IArticle[]> {
     try {
       // Construct the API URL with the search query
-      const apiUrl = `${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000'}/api/articles?q=${encodeURIComponent(query)}`;
+      const apiUrl = `${process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'}/api/articles?q=${encodeURIComponent(query)}`;
       const res = await fetch(apiUrl, { cache: 'no-store' });
   
       if (!res.ok) {

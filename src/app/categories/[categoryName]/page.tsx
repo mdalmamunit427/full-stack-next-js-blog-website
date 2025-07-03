@@ -7,7 +7,7 @@ import Link from "next/link";
   // Data fetching function that runs on the server
   async function getArticlesByCategory(categoryName: string): Promise<IArticle[]> {
     try {
-      const apiUrl = `${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000'}/api/articles?category=${categoryName}`;
+      const apiUrl = `${process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'}/api/articles?category=${categoryName}`;
       // We add { cache: 'no-store' } to ensure the data is fresh on every request.
       const res = await fetch(apiUrl, { cache: 'no-store' });
   

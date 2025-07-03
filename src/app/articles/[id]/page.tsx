@@ -36,7 +36,7 @@ interface Article {
 
 async function getArticle(id: string): Promise<Article | null> {
     try {
-      const apiUrl = `${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000'}/api/articles/${id}`;
+      const apiUrl = `${process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'}/api/articles/${id}`;
       const res = await fetch(apiUrl, { next: { revalidate: 10 } }); // Revalidate to get new comments
       if (!res.ok) {
         return null;
