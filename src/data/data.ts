@@ -32,7 +32,9 @@ export async function getHomePageData(): Promise<HomePageData> {
 
   try {
     await connectDB();
-     allFetchedArticles = await ArticleModel.find({}).sort({ createdAt: -1 }).lean();
+    
+     const articles = await ArticleModel.find({}).sort({ createdAt: -1 }).lean();
+     allFetchedArticles = JSON.parse(JSON.stringify(articles));
   } catch (error) {
     console.error('Error fetching articles for homepage data utility:', error);
   }

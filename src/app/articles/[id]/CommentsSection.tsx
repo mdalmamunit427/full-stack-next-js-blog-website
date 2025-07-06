@@ -23,6 +23,7 @@ interface Comment {
 // --- Component ---
 export default function CommentsSection({ articleId, initialComments }: { articleId: string, initialComments: Comment[] }) {
     const { isSignedIn, user, isLoaded } = useUser()
+    console.log(user)
 
     const [comments, setComments] = useState<Comment[]>(initialComments);
     const [author, setAuthor] = useState('');

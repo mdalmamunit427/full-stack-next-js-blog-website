@@ -21,7 +21,7 @@ interface NavItem {
 
 // Props for the Navbar component
 interface NavbarProps {
-  isAuthenticated: boolean; // Simulate Clerk's authentication status
+  isAuthenticated: boolean; 
   userName?: string;
   userAvatarUrl?: string;
   onThemeToggle?: () => void; // Optional function for theme toggling
@@ -69,7 +69,7 @@ const Navbar: React.FC<NavbarProps> = ({
   return (
     <header className="relative bg-white font-inter text-gray-800">
       {/* Top Header - Visible only on large screens and above */}
-      <div className="hidden lg:block  py-3">
+      <div className="hidden lg:block py-3">
         <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           {/* Logo */}
           <h1 className="flex-shrink-0">
