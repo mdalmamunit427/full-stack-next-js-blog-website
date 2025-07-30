@@ -1,0 +1,605 @@
+[{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf70c"
+  },
+  "title": "I Learned How to Die Before I Knew How to Live",
+  "href": "/article/i-learned-how-to-die-before-i-knew-how-to-live-2",
+  "imageAlt": "People on a bench",
+  "excerpt": "Tech companies need more than advisory boards if they want.",
+  "meta": {
+    "author": "Anna Goldfarb",
+    "authorHref": "/author/anna-goldfarb",
+    "category": "livestyle",
+    "categoryHref": "/category/fashion",
+    "date": "March 12",
+    "readingTime": "4 min read",
+    "displaySection": "gridAndAds"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/grid-featured-1.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf70d"
+  },
+  "title": "Is 'Interactive Storytelling' the Future of Media?",
+  "href": "/article/is-interactive-storytelling-the-future-of-media-2",
+  "imageAlt": "Person with hat",
+  "excerpt": "Or does passive and active content serve different purposes?.",
+  "meta": {
+    "author": "Furukawa",
+    "authorHref": "/author/furukawa",
+    "category": "culture",
+    "categoryHref": "Programing",
+    "date": "March 14",
+    "readingTime": "6 min read",
+    "displaySection": "gridAndAds"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/grid-featured-2.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf70e"
+  },
+  "title": "How NOT to get a $30k bill from Firebase",
+  "href": "/article/how-not-to-get-a-30k-bill-from-firebase-2",
+  "imageAlt": "Woman with hat",
+  "excerpt": "Why the dark forests of the internet'''podcasts, newsletters.",
+  "meta": {
+    "author": "Glor_ida",
+    "authorHref": "/author/glor_ida",
+    "category": "Living",
+    "categoryHref": "/category/living",
+    "date": "April 14",
+    "readingTime": "7 min read",
+    "displaySection": "gridAndAds",
+    "authorAvatarUrl": "/images/author-2.webp"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/grid-featured-3.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf70f"
+  },
+  "title": "Google Can't Figure Out What YouTube Is",
+  "href": "/article/google-cant-figure-out-what-youtube-is-2",
+  "imageAlt": "Woman looking up",
+  "excerpt": "But Apple still has some A.I. tricks up its sleeve.",
+  "meta": {
+    "author": "Rayan Mark",
+    "authorHref": "/author/rayan-mark",
+    "category": "tech",
+    "categoryHref": "/category/gen",
+    "date": "Jun 14",
+    "readingTime": "8 min read",
+    "displaySection": "gridAndAds"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/grid-featured-4.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf710"
+  },
+  "title": "Home Internet Is Becoming a Luxury for the Wealthy",
+  "href": "/article/home-internet-is-becoming-a-luxury-for-the-wealthy-2",
+  "imageAlt": "Laptop on a desk",
+  "excerpt": "And black on meretriciously regardless well fearless irksomely as about h_ideous wistful bat less oh much and occasional useful rat darn jeepers far.",
+  "caption": "Editors' Pick",
+  "meta": {
+    "author": "Dave Gershgorn",
+    "authorHref": "/author/dave-gershgorn",
+    "category": "tech",
+    "categoryHref": "/category/onezero",
+    "date": "May 21",
+    "readingTime": "5 min read",
+    "displaySection": "editorPickPrimary",
+    "authorAvatarUrl": "/images/author/author-2.webp"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf711"
+  },
+  "title": "Why Lack of Sleep is So Bad For You",
+  "href": "/article/why-lack-of-sleep-is-so-bad-for-you-1",
+  "imageAlt": "Sleeping person",
+  "excerpt": "A lack of sleep is linked to an incredibly w_ide range of ailments, from heart disease and Type 2 diabetes to obesity, depression, poor cognitive function, and even Alzheimer's disease..",
+  "caption": "based on your reading history",
+  "meta": {
+    "author": "Darcy Reeder",
+    "authorHref": "/author/darcy-reeder",
+    "category": "health",
+    "categoryHref": "/category/onezero",
+    "date": "Jun 17",
+    "readingTime": "3 min read",
+    "displaySection": "editorPickSecondary"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-2.jpg"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf712"
+  },
+  "title": "Regulators Just Put a Target on Apple's Back",
+  "href": "/article/regulators-just-put-a-target-on-apples-back-1",
+  "imageAlt": "Apple logo",
+  "excerpt": "Excellence is the most important habit you can curate in life because it requires doing things you don't want to do and getting uncomfortable on a daily basis.",
+  "caption": "Culture",
+  "meta": {
+    "author": "Azimi ??kalo",
+    "authorHref": "/author/azimi-sokalo",
+    "category": "tech",
+    "categoryHref": "/category/freedom",
+    "date": "May 12",
+    "readingTime": "8 min read",
+    "displaySection": "editorPickSecondary"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-3.jpg"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf713"
+  },
+  "title": "Apple Is Designing for a Post-Facebook World",
+  "href": "/article/apple-is-designing-for-a-post-facebook-world-1",
+  "imageAlt": "Woman using phone",
+  "excerpt": "And black on meretriciously regardless well fearless irksomely as about h_ideous wistful bat less oh much and occasional useful rat darn jeepers far.",
+  "caption": "Technology",
+  "meta": {
+    "author": "Dave Gershgorn",
+    "authorHref": "/author/dave-gershgorn",
+    "category": "tech",
+    "categoryHref": "/category/onezero",
+    "date": "Jun 12",
+    "readingTime": "7 min read",
+    "displaySection": "editorPickSecondary"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-4.jpg"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf714"
+  },
+  "title": "What Really Happens to AirPods When They Die",
+  "href": "/article/what-really-happens-to-airpods-when-they-die-1",
+  "imageAlt": "Airpods in case",
+  "excerpt": "And black on meretriciously regardless well fearless irksomely as about h_ideous wistful bat less oh much and occasional useful rat darn jeepers far.",
+  "caption": "based on your reading history",
+  "meta": {
+    "author": "Johan Doan",
+    "authorHref": "/author/johan-doan",
+    "category": "lifestyle",
+    "categoryHref": "/category/lifestyle",
+    "date": "May 15",
+    "readingTime": "5 min read",
+    "displaySection": "mostRecent"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-5.jpg"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf715"
+  },
+  "title": "I Learned How to Die Before I Knew How to Live",
+  "href": "/article/i-learned-how-to-die-before-i-knew-how-to-live-1",
+  "imageAlt": "I Learned How to Die Before I Knew How to Live",
+  "meta": {
+    "author": "Anna Goldfarb",
+    "authorHref": "/author/anna-goldfarb",
+    "category": "Fashion",
+    "categoryHref": "/category/fashion",
+    "date": "March 12",
+    "readingTime": "4 min read",
+    "displaySection": "mostRecentGrid"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-6.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf716"
+  },
+  "title": "Is 'Interactive Storytelling' the Future of Media?",
+  "href": "/article/is-interactive-storytelling-the-future-of-media-1",
+  "imageAlt": "Is 'Interactive Storytelling' the Future of Media?",
+  "meta": {
+    "author": "Furukawa",
+    "authorHref": "/author/furukawa",
+    "category": "culture",
+    "categoryHref": "/category/programming",
+    "date": "March 14",
+    "readingTime": "6 min read",
+    "displaySection": "mostRecentGrid"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-7.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf717"
+  },
+  "title": "How NOT to get a $30k bill from Firebase",
+  "href": "/article/how-not-to-get-a-30k-bill-from-firebase-1",
+  "imageAlt": "How NOT to get a $30k bill from Firebase",
+  "meta": {
+    "author": "Glorida",
+    "authorHref": "/author/glorida",
+    "category": "lifestyle",
+    "categoryHref": "/category/living",
+    "date": "April 14",
+    "readingTime": "7 min read",
+    "displaySection": "mostRecentGrid",
+    "authorAvatarUrl": "/images/author-2.webp"
+  },
+  "excerpt": "And black on meretriciously regardless well fearless irksomely as about h_ideous wistful bat less oh much and occasional useful rat darn jeepers far.",
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-8.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf718"
+  },
+  "title": "Google Can't Figure Out What YouTube Is",
+  "href": "/article/google-cant-figure-out-what-youtube-is-1",
+  "imageAlt": "Google Can't Figure Out What YouTube Is",
+  "meta": {
+    "author": "Rayan Mark",
+    "authorHref": "/author/rayan-mark",
+    "category": "tech",
+    "categoryHref": "/category/gen",
+    "date": "Jun 14",
+    "readingTime": "8 min read",
+    "displaySection": "mostRecentGrid"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-9.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf719"
+  },
+  "title": "The Rise of Slow Fashion in a Fast-Paced World",
+  "href": "/article/the-rise-of-slow-fashion-1",
+  "imageAlt": "The Rise of Slow Fashion in a Fast-Paced World",
+  "meta": {
+    "author": "Mila Thompson",
+    "authorHref": "/author/mila-thompson",
+    "category": "lifestyle",
+    "categoryHref": "/category/fashion",
+    "date": "May 5",
+    "readingTime": "5 min read",
+    "displaySection": "mostRecentGrid"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-10.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf71a"
+  },
+  "title": "The Future of JavaScript Frameworks: What's Next?",
+  "href": "/article/the-future-of-javascript-frameworks-1",
+  "imageAlt": "The Future of JavaScript Frameworks: What's Next?",
+  "meta": {
+    "author": "Kenji Yamamoto",
+    "authorHref": "/author/kenji-yamamoto",
+    "category": "education",
+    "categoryHref": "/category/programming",
+    "date": "May 10",
+    "readingTime": "6 min read",
+    "displaySection": "mostRecentGrid"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-11.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf71b"
+  },
+  "title": "Why We Crave Digital Detox More Than Ever",
+  "href": "/article/why-we-crave-digital-detox-1",
+  "imageAlt": "Why We Crave Digital Detox More Than Ever",
+  "meta": {
+    "author": "Sophia Tran",
+    "authorHref": "/author/sophia-tran",
+    "category": "Living",
+    "categoryHref": "/category/living",
+    "date": "May 12",
+    "readingTime": "4 min read",
+    "displaySection": "mostRecentGrid"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-12.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf71c"
+  },
+  "title": "Can AI Really Make Art?",
+  "href": "/article/can-ai-make-art-1",
+  "imageAlt": "Can AI Really Make Art?",
+  "meta": {
+    "author": "Derek Lin",
+    "authorHref": "/author/derek-lin",
+    "category": "tech",
+    "categoryHref": "/category/gen",
+    "date": "May 14",
+    "readingTime": "7 min read",
+    "displaySection": "mostRecentGrid"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-13.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf71d"
+  },
+  "title": "Pres_ident and the emails. Who will guard the guards?",
+  "href": "/article/pres_ident-and-the-emails-who-will-guard-the-guards-1",
+  "imageAlt": "",
+  "meta": {
+    "author": "Alentica",
+    "authorHref": "/author/alentica",
+    "category": "politics",
+    "categoryHref": "/category/police",
+    "date": "May 14",
+    "readingTime": "3 min read",
+    "displaySection": "trending"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-6.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf71e"
+  },
+  "title": "How to Silence the Persistent Ding of Modern Life",
+  "href": "/article/how-to-silence-the-persistent-ding-of-modern-life-1",
+  "imageAlt": "",
+  "meta": {
+    "author": "Alentica",
+    "authorHref": "/author/alentica",
+    "category": "Police",
+    "categoryHref": "/category/police",
+    "date": "Jun 12",
+    "readingTime": "4 min read",
+    "displaySection": "trending"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-7.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf71f"
+  },
+  "title": "Why We Love to Watch",
+  "href": "/article/why-we-love-to-watch-1",
+  "imageAlt": "",
+  "meta": {
+    "author": "Alentica",
+    "authorHref": "/author/alentica",
+    "category": "politics",
+    "categoryHref": "/category/police",
+    "date": "May 15",
+    "readingTime": "5 min min",
+    "displaySection": "trending"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/recents/recent-11.webp"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf720"
+  },
+  "title": "How Health Apps Let",
+  "href": "/article/how-health-apps-let-1",
+  "imageAlt": "",
+  "meta": {
+    "author": "Mamun",
+    "authorHref": "/author/mamun",
+    "category": "lifestyle",
+    "categoryHref": "/category/lifestyle",
+    "date": "July 2, 2025",
+    "readingTime": "1 min read"
+  },
+  "excerpt": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">Getting Crypto Rich</span></h2><p><br></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">And far contrary smoked some contrary among stealthy engagingly suspiciously a cockatoo far circa sank dully lewd slick cracked llama the much gecko yikes more squirrel sniffed this and the the much within uninhibited this abominable a blubbered overdid foresaw through alas the pessimistic.</span></p><p><br></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">Gosh jaguar ostrich quail one excited dear hello and bound and the and bland moral misheard roadrunner flapped lynx far that and jeepers giggled far and far bald that roadrunner python inside held shrewdly the manatee.</span></p><p><br></p>",
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T08:13:15.188Z"
+  },
+  "image": "/images/blogs/recents/recent-2.jpg",
+  "tags": [
+    "health",
+    "news"
+  ],
+  "caption": "How Health Apps Let"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf721"
+  },
+  "title": "Why I Stopped Chasing 'Success' and Started Living Intentionally",
+  "href": "/article/why-i-stopped-chasing-success-and-started-living-intentionally",
+  "imageAlt": "Person looking at a serene landscape",
+  "excerpt": "For years, I climbed ladders I never questioned. I had the job title, the income, the approval—but I felt lost. It wasn't until I paused and asked myself what success truly meant that everything began to shift.",
+  "caption": "Readers vote",
+  "meta": {
+    "author": "Jordan Ellis",
+    "authorHref": "/author/jordan-ellis",
+    "category": "education",
+    "categoryHref": "/category/career",
+    "date": "July 25",
+    "readingTime": "6 min read",
+    "displaySection": "slider"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/featured-blog-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf722"
+  },
+  "title": "What No One Tells You About Leaving a Job You Were 'Good At'",
+  "href": "/article/what-no-one-tells-you-about-leaving-a-job-you-were-good-at",
+  "imageAlt": "Person standing on a path",
+  "excerpt": "I was competent, praised, and promoted—but I wasn't happy. Walking away from something you're good at is terrifying, especially when people don't understand why. This is what I wish someone had told me before I made that leap.",
+  "caption": "Readers vote",
+  "meta": {
+    "author": "Jordan Ellis",
+    "authorHref": "/author/jordan-ellis",
+    "category": "education",
+    "categoryHref": "/category/life-transitions",
+    "date": "April 15",
+    "readingTime": "6 min read",
+    "displaySection": "slider"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/featured-blog-2.png"
+},
+{
+  "_id": {
+    "$oid": "6862b4307bff0ea9966cf723"
+  },
+  "title": "What I Wish I'd Known When I Made a Drastic Career Change",
+  "href": "/article/what-i-wish-id-known-when-i-made-a-drastic-career-change",
+  "imageAlt": "City street",
+  "excerpt": "Eight people who took the plunge share the biggest challenges and surprises of starting over. We spend a considerable portion of our time using a web browser and may sometimes need to get a screenshot of a full page in your browser.",
+  "caption": "Readers vote",
+  "meta": {
+    "author": "Steven Job",
+    "authorHref": "/author/steven-job",
+    "category": "OneZero",
+    "categoryHref": "/category/onezero",
+    "date": "July 15",
+    "readingTime": "5 min read",
+    "displaySection": "slider"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-01T08:34:35.272Z"
+  },
+  "image": "/images/blogs/featured-blog-3.png"
+}]
